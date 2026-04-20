@@ -1,22 +1,14 @@
-## Hi there 👋I'm Sunanda
+<h1 align="center">Hi 👋, I'm sunanda</h1>
+<h3 align="center">🚀 DevOps Engineer with 4+ years of experience in deploying cloud-based infrastructure.</h3>
 
-🚀 DevOps Engineer with 4+ years of experience in deploying cloud-based infrastructure.
+- 🔭what i have worked on: [Web Print Platform(wpp)](•Managed hybrid infrastructure (on-prem and AWS) supporting over 30 million HP ePrint-enabled printers, ensuring high availability and performance. • Perform continuous deployment of micro-services using Jenkins to promote appconfig, database and service release artifacts from development into stage and production. • Deployed Infrastructural and code changes on Stage and Prod environments. • Worked on Autoscaling group changes for few services, which is done to Avoid Prod incidents. • Migrated 50+ services from AWS cloud formation to terraform for easier infra management. • Created multiple lambda functions using boto3. • Followed gitops model of deployment, during terraform migration, which helped in increasing the efficiency of CICD process. • Worked on RDS Import activity, using Blue green deployment method. • Worked on reviewal and code approval , before deploying on Prod environment. • Built a Streamlit UI for Stratus AI chatbot with intuitive navigation, session handling, error alerts, and VectorDB integration; enhanced usability with AG Grid and Pandas.)
 
-💡What i have worked on:
-• Managed hybrid infrastructure (on-prem and AWS) supporting over 30 million HP ePrint-enabled printers, ensuring high availability and performance.
-• Perform continuous deployment of micro-services using Jenkins to promote appconfig, database and service release artifacts from development into stage and production.
-•	Deployed Infrastructural and code changes on Stage and Prod environments.
-•	Worked on Autoscaling group changes for few services, which is done to Avoid Prod incidents.
-•	Migrated 50+ services from AWS cloud formation to terraform for easier infra management.
-•	Created multiple lambda functions using boto3.
-•	Followed gitops model of deployment, during terraform migration, which helped in increasing the efficiency of CICD process. 
-•	Worked on RDS Import activity, using Blue green deployment method.
-•	Worked on reviewal and code approval , before deploying on Prod environment.
+- 📫 How to reach me **sunandakonduru407@gmail.com**
 
-• Built a Streamlit UI for Stratus AI chatbot with intuitive navigation, session handling, error alerts, and VectorDB
-integration; enhanced usability with AG Grid and Pandas.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sunanda-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunanda-k/" height="30" width="40" /></a>
+</p>
 
-🔧 Tech Stack:
-AWS | Docker | Kubernetes | Terraform | Jenkins | Git | Python | Ansible
-
-📫 Reach me at: sunandakonduru407@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
